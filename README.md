@@ -14,15 +14,52 @@
 
 ## Language And Tools 🛠️
 
-## Language And Tools 🛠️
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,php" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,sql,php)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=wireshark,metasploit,nmap,burpsuite,snort,openvas)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kali,ubuntu,windows,macos)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,pycharm,eclipse,anaconda,intellijidea)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,microsoftsqlserver)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wireshark,metasploit,nmap,snort,openvas" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,macos" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,eclipse,anaconda,intellijidea" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,microsoftsqlserver" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  </a>
+</p>
 
 
