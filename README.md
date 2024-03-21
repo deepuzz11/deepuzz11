@@ -14,12 +14,59 @@
 
 ## Language And Tools 🛠️
 
-- **Programming Languages:** Python, Java, C/C++, HTML, CSS, JavaScript, SQL, PHP
-- **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, Snort, OpenVAS
-- **Operating Systems:** Linux (Kali, Ubuntu), Windows, macOS
-- **Version Control:** Git, GitHub
-- **IDEs:** Visual Studio Code, PyCharm, Eclipse, Anaconda, IntelliJ IDEA
-- **Database Management Systems:** MySQL, MongoDB, SQLite, Microsoft SQL Server
-- **Web Frameworks:** Node.js, Express.js
-- **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform
-- **Networking:** TCP/IP, DNS, DHCP, VPN, Firewall, Routing
+- **Programming Languages:** 
+  ![Python](https://skillicons.dev/icon?name=python) 
+  ![Java](https://skillicons.dev/icon?name=java) 
+  ![C/C++](https://skillicons.dev/icon?name=c) 
+  ![HTML](https://skillicons.dev/icon?name=html) 
+  ![CSS](https://skillicons.dev/icon?name=css) 
+  ![JavaScript](https://skillicons.dev/icon?name=javascript) 
+  ![SQL](https://skillicons.dev/icon?name=sql) 
+  ![PHP](https://skillicons.dev/icon?name=php)
+
+- **Cybersecurity Tools:** 
+  ![Wireshark](https://skillicons.dev/icon?name=wireshark) 
+  ![Metasploit](https://skillicons.dev/icon?name=metasploit) 
+  ![Nmap](https://skillicons.dev/icon?name=nmap) 
+  ![Burp Suite](https://skillicons.dev/icon?name=burp) 
+  ![Snort](https://skillicons.dev/icon?name=snort) 
+  ![OpenVAS](https://skillicons.dev/icon?name=openvas)
+
+- **Operating Systems:** 
+  ![Linux](https://skillicons.dev/icon?name=linux) 
+  (Kali, Ubuntu) ![Windows](https://skillicons.dev/icon?name=windows) 
+  ![macOS](https://skillicons.dev/icon?name=macos)
+
+- **Version Control:** 
+  ![Git](https://skillicons.dev/icon?name=git) 
+  ![GitHub](https://skillicons.dev/icon?name=github)
+
+- **IDEs:** 
+  ![Visual Studio Code](https://skillicons.dev/icon?name=visualstudio) 
+  ![PyCharm](https://skillicons.dev/icon?name=pycharm) 
+  ![Eclipse](https://skillicons.dev/icon?name=eclipse) 
+  ![Anaconda](https://skillicons.dev/icon?name=anaconda) 
+  ![IntelliJ IDEA](https://skillicons.dev/icon?name=intellij)
+
+- **Database Management Systems:** 
+  ![MySQL](https://skillicons.dev/icon?name=mysql) 
+  ![MongoDB](https://skillicons.dev/icon?name=mongodb) 
+  ![SQLite](https://skillicons.dev/icon?name=sqlite) 
+  ![Microsoft SQL Server](https://skillicons.dev/icon?name=mssql)
+
+- **Web Frameworks:** 
+  ![Node.js](https://skillicons.dev/icon?name=nodejs) 
+  ![Express.js](https://skillicons.dev/icon?name=express)
+
+- **Cloud Platforms:** 
+  ![AWS](https://skillicons.dev/icon?name=aws) 
+  ![Microsoft Azure](https://skillicons.dev/icon?name=azure) 
+  ![Google Cloud Platform](https://skillicons.dev/icon?name=gcp)
+
+- **Networking:** 
+  ![TCP/IP](https://skillicons.dev/icon?name=tcpip) 
+  ![DNS](https://skillicons.dev/icon?name=dns) 
+  ![DHCP](https://skillicons.dev/icon?name=dhcp) 
+  ![VPN](https://skillicons.dev/icon?name=vpn) 
+  ![Firewall](https://skillicons.dev/icon?name=firewall) 
+  ![Routing](https://skillicons.dev/icon?name=routing)
