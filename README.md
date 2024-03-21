@@ -14,4 +14,4 @@
 
 ## Language And Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,php,wireshark,metasploit,nmap,snort,openvas,kali,ubuntu,windows,macos,git,github,visualstudio,pycharm,eclipse,anaconda,intellijidea,mysql,mongodb,sqlite,microsoftsqlserver,nodejs,expressjs,aws,azure,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,php,kali,ubuntu,windows,git,github,visualstudio,pycharm,eclipse,intellijidea,mysql,mongodb,sqlite,nodejs,expressjs,aws,azure,gcp)](https://skillicons.dev)
