@@ -14,4 +14,4 @@
 
 ## Language And Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,js,php,kali,ubuntu,windows,git,github,visualstudio,pycharm,eclipse,mysql,mongodb,sqlite,nodejs,expressjs,aws,azure,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,js,kali,ubuntu,windows,git,github,visualstudio,pycharm,eclipse,mysql,mongodb,sqlite,nodejs,expressjs,aws,azure)](https://skillicons.dev)
