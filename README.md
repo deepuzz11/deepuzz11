@@ -4,6 +4,8 @@
 
 - 🔭 Currently immersed in the realm of Cybersecurity as I pursue my Bachelor of Technology degree in Computer Science at Shiv Nadar University Chennai.
 - 🌱 Constantly cultivating my cybersecurity prowess, delving into the intricacies of this ever-evolving field.
+- 📖 Lifelong learner and tech enthusiast, I am always seeking to expand my skills and stay on top of the latest trends in AI, Cybersecurity, and Data Privacy.
+- 🌍 I’m a believer in using technology to make the world a better place, and I'm particularly interested in projects that lie at the intersection of AI, Cybersecurity, and sustainability.
 
 ## Connect with Me🙋🏻‍♀
 
