@@ -4,8 +4,6 @@
 
 - 🔭 Currently immersed in the realm of Cybersecurity as I pursue my Bachelor of Technology degree in Computer Science at Shiv Nadar University Chennai.
 - 🌱 Constantly cultivating my cybersecurity prowess, delving into the intricacies of this ever-evolving field.
-- 👯 Eager to forge collaborations and partnerships with seasoned professionals, seeking internships and opportunities to contribute meaningfully.Additionally, I'm keen on collaborating on projects and forming teams for hackathons and Capture The Flag (CTF) competitions.
-- 😄 Fun fact:I once hacked into my own computer as a learning experiment, only to realize I forgot the password shortly after!
 
 ## Connect with Me🙋🏻‍♀
 
@@ -14,4 +12,4 @@
 
 ## Language And Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,js,kali,ubuntu,windows,git,github,visualstudio,pycharm,eclipse,mysql,mongodb,sqlite,nodejs,expressjs,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,kali,ubuntu,windows,git,github,visualstudio,pycharm,eclipse,mysql,mongodb,sqlite)](https://skillicons.dev)
