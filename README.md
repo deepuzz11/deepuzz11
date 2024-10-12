@@ -18,25 +18,4 @@ I love engaging with fellow tech enthusiasts and professionals! Feel free to rea
 ## Languages and Skills I Speak 🛠️
 
 Here’s a peek into my toolkit:
-
-### Programming Languages:
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-
-### Tools & Technologies:
-- Kali Linux
-- Ubuntu
-- Windows
-- Git & GitHub
-- Visual Studio
-- Eclipse
-- MySQL
-- MongoDB
-- SQLite
-- Postman
-- Firebase
-
-[![My Skills](https://skillicons.dev/icons?i=Java,py,html,css,js,kali,ubuntu,windows,git,github,visualstudio,eclipse,mysql,mongodb,sqlite,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,kali,ubuntu,windows,git,github,visualstudio,eclipse,mysql,mongodb,sqlite,postman,firebase)](https://skillicons.dev)
