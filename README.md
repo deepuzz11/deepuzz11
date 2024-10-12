@@ -15,8 +15,28 @@ I love engaging with fellow tech enthusiasts and professionals! Feel free to rea
 
 - [LinkedIn](https://www.linkedin.com/in/deepika-p-5a053a258/)
 - [GitHub](https://github.com/deepuzz11)
+## Languages and Skills I Speak 🛠️
 
-## Languages and Tools I Speak 🛠️
+Here’s a peek into my toolkit:
 
-Here’s a peek into my toolkit! 
+### Programming Languages:
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+
+### Tools & Technologies:
+- Kali Linux
+- Ubuntu
+- Windows
+- Git & GitHub
+- Visual Studio
+- Eclipse
+- MySQL
+- MongoDB
+- SQLite
+- Postman
+- Firebase
+
 [![My Skills](https://skillicons.dev/icons?i=Java,py,html,css,js,kali,ubuntu,windows,git,github,visualstudio,eclipse,mysql,mongodb,sqlite,postman,firebase)](https://skillicons.dev)
