@@ -17,5 +17,4 @@ I love engaging with fellow tech enthusiasts and professionals! Feel free to rea
 - [GitHub](https://github.com/deepuzz11)
 ## Languages and Skills I Speak 🛠️
 
-Here’s a peek into my toolkit:
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,kali,ubuntu,windows,git,github,visualstudio,eclipse,mysql,mongodb,sqlite,postman,firebase)](https://skillicons.dev)
