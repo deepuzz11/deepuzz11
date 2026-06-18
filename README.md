@@ -9,13 +9,7 @@
 ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=BC8CFF&center=true&vCenter=true&width=650&lines=👩‍💻+Software+Engineer+%7C+Fresh+%26+Fearless;🔐+Cybersecurity+%2B+AI%2FML+%2B+Full-Stack;Building+systems+that+think%2C+protect%2C+and+last;Open+to+SWE+Roles+%7C+Internships+%7C+Collabs+🚀" alt="Typing SVG" />
-
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=deepuzz11&color=bc8cff&style=flat-square&label=profile+views)](https://github.com/deepuzz11)
-[![GitHub followers](https://img.shields.io/github/followers/deepuzz11?label=followers&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/deepuzz11?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/deepuzz11?label=total+stars&style=flat-square&color=e3b341&labelColor=0d1117)](https://github.com/deepuzz11)
 [![Open to Work](https://img.shields.io/badge/open%20to%20work-SWE%20roles-3fb950?style=flat-square&labelColor=0d1117)](https://github.com/deepuzz11)
 
 </div>
