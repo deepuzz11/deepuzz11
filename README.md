@@ -9,9 +9,6 @@
 ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<br/>
-[![Open to Work](https://img.shields.io/badge/open%20to%20work-SWE%20roles-3fb950?style=flat-square&labelColor=0d1117)](https://github.com/deepuzz11)
-
 </div>
 
 ---
