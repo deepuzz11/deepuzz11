@@ -218,8 +218,8 @@ PING recruiter@yourcompany.com — response: hire me ✓  |  available immediate
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-deepuzz11-0d1117?style=for-the-badge&logo=github&logoColor=bc8cff&labelColor=161b22)](https://github.com/deepuzz11)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=161b22)](https://linkedin.com/in/deepuzz11)
-[![Email](https://img.shields.io/badge/email-say%20hello-0d1117?style=for-the-badge&logo=gmail&logoColor=f778ba&labelColor=161b22)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=161b22)]([https://www.linkedin.com/in/deepika-p-5a053a258/])
+[![Email](https://img.shields.io/badge/email-say%20hello-0d1117?style=for-the-badge&logo=gmail&logoColor=f778ba&labelColor=161b22)](mailto:deepikaprabhakaran11@email.com)
 
 <br/>
 
